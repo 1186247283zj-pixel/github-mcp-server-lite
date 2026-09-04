@@ -1,5 +1,7 @@
 # github-mcp-server-lite
 
+[English](./README_EN.md) | 中文
+
 一个**零第三方依赖**的 GitHub MCP server。只用 Python 标准库（`urllib`），通过 Personal Access Token 直连 GitHub REST API，提供 24 个工具。
 
 ## 为什么会有这个项目
@@ -97,4 +99,4 @@ MCP over stdio，JSON-RPC 2.0，换行分隔。支持 `initialize`、`tools/list
 
 ## License
 
-MIT
+MIT — 详见 [LICENSE](./LICENSE)
